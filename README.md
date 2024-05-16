@@ -1,5 +1,5 @@
 # Ex. No. 6.1 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 11.5.2024
+### DATE: 11/05/24
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -43,8 +43,14 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
+## Output:
+![image](https://github.com/Dharsanrameshkumar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870430/6c0fdf50-d1ea-426d-830d-157bef6d369e)
+![image](https://github.com/Dharsanrameshkumar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870430/8209dc89-956e-4c7a-9021-edbf1d2eee2f)
+
+![image](https://github.com/Dharsanrameshkumar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870430/633a13e4-45a2-4a60-b4d2-021452ef4ab0)
+
 ### Name: P PARTHIBAN
-### Register Number: 212223230145
+### Register Number: 212223230245
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
